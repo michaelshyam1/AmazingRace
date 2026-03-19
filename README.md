@@ -1,4 +1,4 @@
-# 🤖 The A-maze-ing Race — CG1111A Engineering Principles & Practice I
+# The A-maze-ing Race — CG1111A Engineering Principles & Practice I
 
 > An autonomous maze-solving robot built on the mBot platform, capable of navigating a maze using ultrasonic and IR proximity sensors, detecting coloured waypoint challenges, and executing precise turns — all without bumping into walls.
 
